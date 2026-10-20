@@ -13,5 +13,11 @@ while (firstName.isEmpty()) {
     System.out.printIn ("First Name is Required");
     firstName = scan.nextline().trim();
     }
-
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+    }System.out.printin("Last Name (required)"): *);
+    String lastname = scan.nextline().trim();
+while (lastName.isEmpty()) {
+        System.out.printIn ("Last Name is Required");
+        lastName = scan.nextline().trim();
 }
